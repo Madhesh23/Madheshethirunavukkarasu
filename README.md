@@ -3,32 +3,32 @@
 ### 👨‍💻 About Me
 - 🎓 Master's in Big Data and High-Performance Computing at the University of Liverpool.
 - 🌟 Passionate about **Data Analysis**, **Machine Learning**, and **Big Data Technologies**.
-- 🛠️ Always learning and working on projects in Python, SQL, and Big Data platforms.
+- 🛠️ Currently working on projects in Python, SQL, and Data Science.
 
 ---
 
 ### ⚡ My Skills
 - **Languages**: Python, SQL, JavaScript
 - **Big Data**: Hadoop, Spark, Hive
-- **Machine Learning**: Regression, Classification, Data Visualization
-- **Tools**: Jupyter Notebook, Tableau, Git, Power BI
+- **Machine Learning**: Survival Analysis, Regression, Classification
+- **Tools**: Jupyter Notebook, Git, Tableau, Power BI
 
 ---
 
-### 🏆 Projects
-#### 🔹 **Customer Churn Prediction**
-- Built a machine learning model to predict customer churn using logistic regression.
-- Preprocessed real-world data, handled missing values, and achieved 80% accuracy.
+### 🏆 Featured Project: Breast Cancer Survival Analysis
+#### 🔹 **Discovery of Prognostic Biomarkers in Breast Cancer**
+- Conducted RNA sequencing and survival analysis to identify potent biomarkers in breast cancer.
+- Built reproducible workflows in Python for data preprocessing, statistical modeling, and Kaplan-Meier survival analysis.
+- Developed a pipeline for automating the identification of high-risk groups and generating clinical insights.
 
-#### 🔹 **Airbnb Price Prediction**
-- Developed a regression model to predict rental prices.
-- Performed feature engineering and data visualization to identify key trends.
+**GitHub Repository**: [Breast Cancer Survival Analysis](https://github.com/madhesh23/breast-cancer-survival-analysis)
 
 ---
 
 ### 📊 GitHub Stats
 ![Madheshe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=madhesh23&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=madhesh23&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhesh23&layout=compact&theme=radical)
 
 ---
 
