@@ -49,11 +49,6 @@ Impact: Proposed novel techniques to improve the accuracy of emotion detection i
 
 🗂️ Other Notable Projects
 
-Customer Churn Analysis: Developed a machine learning model to predict customer churn using logistic regression.
-
-Airbnb Price Prediction: Used regression models to predict rental prices on the Airbnb platform.
-
-COVID-19 Data Analysis: Analyzed COVID-19 data to identify key trends and insights using data visualization techniques.
 
 ## 📊 GitHub Stats
 ![Madheshe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=madhesh23&show_icons=true&theme=radical)
