@@ -55,6 +55,10 @@ Airbnb Price Prediction: Used regression models to predict rental prices on the 
 
 COVID-19 Data Analysis: Analyzed COVID-19 data to identify key trends and insights using data visualization techniques.
 
+## 📊 GitHub Stats
+![Madheshe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=madhesh23&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=madhesh23&theme=radical)
+
 
 🌐 Let's Connect
 
