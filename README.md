@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Madheshe Thirunavukkarasu!
 
 ### 👨‍💻 About Me
-- 🎓 Master's in Big Data and High-Performance Computing at the University of Liverpool.
+- 🎓 Postgraduation course in Big Data and High-Performance Computing at the University of Liverpool.
 - 🌟 Passionate about **Data Analysis**, **Machine Learning**, and **Big Data Technologies**.
 - 🛠️ Currently working on projects in Python, SQL, and Data Science.
 
