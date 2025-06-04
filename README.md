@@ -11,7 +11,7 @@
 - **Languages**: Python, SQL, JavaScript
 - **Big Data**: Hadoop, Spark, Hive
 - **Machine Learning**: Survival Analysis, Regression, Classification
-- **Tools**: Jupyter Notebook, Git, Tableau, Power BI
+- **Tools**: Jupyter Notebook, Git, Tableau,
 
 ---
 
